@@ -1,1 +1,1 @@
-here is my TP work
+This repository contains my practical assignment on Mark Wolynn's book
